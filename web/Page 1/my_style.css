@@ -1,0 +1,22 @@
+body
+{
+	background: url("fon1.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;	
+}
+.zag1
+{
+	font-familie: "Monotype Corsiva";
+	font-weight: bold;
+	font-style: italic
+	font-size: 24pt;
+	text-decoration-line: underline;
+}
+.text1
+{
+	margin-left: 20%;
+	margin-up: -20%;
+	border: 1px solid blue;
+ 	padding: 3px;
+	background-color: RGB(255,255,0);
+}

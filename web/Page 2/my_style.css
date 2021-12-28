@@ -1,0 +1,30 @@
+body
+{
+	background: url("fon2.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;	
+}
+.zag1
+{
+	font-familie: Arial;
+	font-weight: bold;
+	font-style: italic
+	font-size: 24pt;
+	text-decoration-line: underline;
+}
+.text1
+{	
+	
+	border: 10px solid blue;
+ 	padding: 3px;
+	background-color: #FFFF00;
+}
+.what
+{	
+	margin-right: 30%;
+	border: 10px solid green;
+}
+.img1
+{
+	margin-right: 30%;
+}
